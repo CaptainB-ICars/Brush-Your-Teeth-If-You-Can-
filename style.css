@@ -1,0 +1,38 @@
+body
+{
+    background-image:url("2.png") ;
+}
+
+#in
+{
+    background-image: url("a.jpg");
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left:0px;
+    top:200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#gb
+{
+    background-image: url("w.gif");
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left:0px;
+    top:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
